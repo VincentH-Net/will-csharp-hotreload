@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33906.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinApp2", "WinApp2.csproj", "{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0053FE52-93B6-4267-B6BF-3BA4E6186888}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|ARM64.Build.0 = Debug|ARM64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|x64.ActiveCfg = Debug|x64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|x64.Build.0 = Debug|x64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|x64.Deploy.0 = Debug|x64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|x86.ActiveCfg = Debug|x86
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|x86.Build.0 = Debug|x86
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Debug|x86.Deploy.0 = Debug|x86
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|ARM64.ActiveCfg = Release|ARM64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|ARM64.Build.0 = Release|ARM64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|ARM64.Deploy.0 = Release|ARM64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|x64.ActiveCfg = Release|x64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|x64.Build.0 = Release|x64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|x64.Deploy.0 = Release|x64
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|x86.ActiveCfg = Release|x86
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|x86.Build.0 = Release|x86
+		{D880BE5A-EDA8-45DB-8815-A7AEA4FF4DA0}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C055D1E-885B-4451-B857-606162EF13A1}
+	EndGlobalSection
+EndGlobal

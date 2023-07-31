@@ -7,7 +7,7 @@ Successfully verified that `MetadataUpdateHandler` is invoked on hot reload with
 ## Steps to Repro:
 1. Debug the app (unpackaged)
 2. Edit and save code `myButton_Click` in `MainWindow.xaml.cs` (enable hot reload on save)
-3. After VS status bar shows `Code changes were applied successfully` the title of the app windows updates to `Hot Reload!`
+3. After VS status bar shows `Code changes were applied successfully` the title of the app window updates to `Hot Reload!`
 
 ## How this was built:
 
